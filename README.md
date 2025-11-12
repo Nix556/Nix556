@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jonathan
+# Hi there, I'm Jonathan
 
 **IT technician with a specialization in infrastructure Student | Python & Linux Enthusiast | Home Lab Explorer**
 
