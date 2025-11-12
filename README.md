@@ -12,16 +12,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## 🌱 About Me
-
-- 🇩🇰 From Denmark, 18 years old  
-- Currently studying **Datateknikker med speciale i Infrastruktur**  
-- Love working with Python, Linux, Docker, Git/GitHub, and malware analysis  
-- Enjoy creating small solutions for personal problems and tinkering with code  
-- Running my own home lab for testing, learning, and practical projects  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-F05124?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
@@ -38,23 +33,24 @@
 
 ---
 
+## 📂 Featured Repositories
+
+| Repository | Description | Language | License |
+|------------|-------------|----------|---------|
+| [zabbix-installer](https://github.com/Nix556/zabbix-installer) | Zabbix installer for Debian 12 and Ubuntu 22.04 | Shell | MIT |
+| [malware-simulator](https://github.com/Nix556/malware-simulator) | Collection of Python scripts demonstrating common malware behaviors | Python | MIT |
+
+---
+
 ## 📈 GitHub Stats
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nix556&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nix556&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
----
-
-## ⚡ Fun Fact
-
-- Love experimenting in my home lab  
-- Always fixing small problems with small scripts  
-- Passionate about learning malware behavior & cybersecurity  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nix556)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<IADDLATER>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](<IDONTHAVEONEYET>)
