@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jonathan!
+# Hi there 👋, I'm Jonathan
 
 **Datateknikker Student | Python & Linux Enthusiast | Home Lab Explorer**
 
@@ -20,19 +20,6 @@
 
 ---
 
-## 🔭 My Projects & Experiments
-
-| Project / Lab | Description | Tech |
-|---------------|-------------|------|
-| Personal Home Lab | Testing servers, Docker setups, and custom scripts | Linux, Docker, Python |
-| Malware Analysis Experiments | Studying malware behavior safely | Python, Linux, Virtual Machines |
-| Small Fix Scripts | Scripts & tweaks to automate daily tasks | Python, Bash |
-| Web Experiments | Basic HTML projects | HTML, CSS |
-
-> ⚡ Most projects are personal labs & experiments for learning and testing.
-
----
-
 ## 📂 Featured Repositories
 
 | Repository | Description | Language | License |
@@ -46,11 +33,3 @@
 
 ![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nix556&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nix556&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nix556)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<IADDLATER>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](<IDONTHAVEONEYET>)
