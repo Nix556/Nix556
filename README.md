@@ -14,8 +14,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![PfSense](https://img.shields.io/badge/PfSense-007ACC?style=for-the-badge&logoColor=white)
-![PowerShell](https://img.shields.io/powershellgallery/v/:packageName)
+![PfSense](https://img.shields.io/badge/PfSense-ED1C24?style=for-the-badge&logo=pfsense&logoColor=white)
+![PowerShell]()
 
 ---
 
