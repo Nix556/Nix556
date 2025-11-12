@@ -15,7 +15,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![PfSense](https://img.shields.io/badge/PfSense-ED1C24?style=for-the-badge&logo=pfsense&logoColor=white)
-![PowerShell](![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
 
 ---
 
