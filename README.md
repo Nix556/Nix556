@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jonathan
 
-**Datateknikker Student | Python & Linux Enthusiast | Home Lab Explorer**
+**IT technician with a specialization in infrastructure Student | Python & Linux Enthusiast | Home Lab Explorer**
 
 ---
 
