@@ -20,15 +20,6 @@
 
 ---
 
-## 📂 Featured Repositories
-
-| Repository | Description | Language | License |
-|------------|-------------|----------|---------|
-| [zabbix-installer](https://github.com/Nix556/zabbix-installer) | Zabbix installer for Debian 12 and Ubuntu 22.04 | Shell | MIT |
-| [malware-simulator](https://github.com/Nix556/malware-simulator) | Collection of Python scripts demonstrating common malware behaviors | Python | MIT |
-
----
-
 ## 📈 GitHub Stats
 
 ![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nix556&show_icons=true&theme=radical)
