@@ -19,12 +19,11 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![ESXi](https://img.shields.io/badge/ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-F80000?style=for-the-badge&logo=proxmox&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0070C0?style=for-the-badge&logo=freenas&logoColor=white)
-![PfSense](https://img.shields.io/badge/PfSense-ED1C24?style=for-the-badge&logo=pfsense&logoColor=white)
-![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-F80000?style=for-the-badge&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0070C0?style=for-the-badge&logoColor=white)
+![PfSense](https://img.shields.io/badge/PfSense-ED1C24?style=for-the-badge&logoColor=white)
+![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Static Analysis](https://img.shields.io/badge/Static%20Analysis-6F42C1?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 ---
 
