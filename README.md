@@ -1,9 +1,5 @@
 # Hi there, I'm Jonathan
 
-**IT technician with a specialization in infrastructure Student | Python & Linux Enthusiast | Home Lab Explorer**
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
