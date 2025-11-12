@@ -21,5 +21,5 @@
 
 ## 📈 GitHub Stats
 
-![Jonathan's GitHub Stats]()
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nix556&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nix556&layout=compact&theme=radical)
