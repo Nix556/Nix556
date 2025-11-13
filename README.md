@@ -23,5 +23,3 @@
 
 ![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nix556&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nix556&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nix556&theme=radical)
-![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Nix556&theme=radical)
