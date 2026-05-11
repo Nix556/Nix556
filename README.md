@@ -1,9 +1,9 @@
-<h2 align="center">Jonathan</h2>
-
-<p align="center">Just putting small projects here.</p>
+<h3 align="center">Jonathan</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,ubuntu" /><br/>
-  <img src="https://skillicons.dev/icons?i=debian,kali,windows,docker,nginx" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,cloudflare" />
+  Infrastructure • Networking • Security • Automation
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,docker,nginx,git,arch" />
 </p>
